@@ -1,0 +1,7 @@
+﻿  Assign_5_1_Mat_Mul.c
+C:\Users\ai-jh\Desktop\강의\Solutions\Assign_5_1\Assign_5_1_Mat_Mul.c(58,8): warning C4013: 'system'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  코드를 생성하고 있습니다.
+  Previous IPDB not found, fall back to full compilation.
+  All 7 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+  Assign_5_1.vcxproj -> C:\Users\ai-jh\Desktop\강의\Solutions\Release\Assign_5_1.exe
